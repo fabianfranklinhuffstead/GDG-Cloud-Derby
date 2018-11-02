@@ -97,10 +97,16 @@ Track 2:
 <img width="50%" height="50%" src="/media/track-3.JPG"/>
 
 Recording results:
+
 <img width="50%" height="50%" src="/media/track-2.JPG"/>
 
 Video:
-<video width="320" height="240">
-  <source src="/media/robot-track.MOV">
-</video>
+
+<object width="425" height="350">
+  <param name="movie" value="/media/robot-track.MOV" />
+  <param name="wmode" value="transparent" />
+  <embed src="/media/robot-track.MOV"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
