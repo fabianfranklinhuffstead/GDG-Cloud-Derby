@@ -100,13 +100,6 @@ Recording results:
 
 <img width="50%" height="50%" src="/media/track-2.JPG"/>
 
-Video:
+Check this video <a href="https://github.com/fabianfranklinhuffstead/GDG-Cloud-Derby-/blob/master/media/robot-track.MOV">here</a> for visual demo.
 
-<object width="425" height="350">
-  <param name="movie" value="/media/robot-track.MOV" />
-  <param name="wmode" value="transparent" />
-  <embed src="/media/robot-track.MOV"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
