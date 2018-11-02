@@ -81,15 +81,19 @@ Which calculates shift from the middle of the image knowing the angle of view of
 ## Result
 
 Pi Robot 1:
+
 <img width="50%" height="50%" src="/media/pi-robot-1.JPG"/>
 
 Pi Robot 2:
+
 <img width="50%" height="50%" src="/media/pi-robot-2.JPG"/>
 
 Track 1:
+
 <img width="50%" height="50%" src="/media/track-1.JPG"/>
 
-Track 2;
+Track 2:
+
 <img width="50%" height="50%" src="/media/track-3.JPG"/>
 
 Recording results:
@@ -97,6 +101,6 @@ Recording results:
 
 Video:
 <video width="320" height="240">
-  <source src="/media/robot-track.mov">
+  <source src="/media/robot-track.MOV">
 </video>
 
