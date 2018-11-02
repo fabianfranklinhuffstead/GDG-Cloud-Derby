@@ -51,6 +51,7 @@ Copy all images from gcloud to robot vm
 command - gsutil -m cp -r gs://robot-derby-team27-images/* c:\a-robot-images
 
 Example ball detection images:
+
 <img width="50%" height="50%" src="/media/ball-detection.png"/>
 
 ## Hackathon material
