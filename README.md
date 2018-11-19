@@ -103,6 +103,6 @@ Recording results:
 
 Download this video <a href="https://github.com/fabianfranklinhuffstead/GDG-Cloud-Derby-/blob/master/media/robot-track.MOV">here</a> for visual demo:
 
-<img src="robot-track_1_loop.gif" />
+<img src="/media/robot-track_1_loop.gif" />
 
 
